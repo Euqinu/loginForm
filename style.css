@@ -1,0 +1,48 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: silver;
+}
+.header{
+	width: 30%;
+	
+	border-radius: 5px;
+	background: #5F9EA0;
+	text-align: center;
+	padding: 20px;
+	margin: 50px auto 0;
+}
+form{
+	width: 30%;
+	border-radius: 1px;
+	background: white;
+	padding: 20px;
+	margin: 0px auto;
+	
+
+}
+.inputgroup{
+	margin: 5px;
+
+}
+.inputgroup label{
+	text-align: left;
+	display: block;
+	padding: 10px;
+}
+.inputgroup input{
+	height: 30px;
+	text-align: left;
+	padding: 5px 10px;
+}
+.inputgroup button{
+	margin: 10px;
+	width: 20%;
+	height: 10%;
+	padding: 5px;
+	border: 1px solid black;
+}
+
+.inputgroup button:hover{
+	color:green;
+}
